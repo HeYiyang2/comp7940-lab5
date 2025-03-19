@@ -4,7 +4,7 @@
 #
 
 app = 'hello-vue3'
-primary_region = 'lax'
+primary_region = 'nrt'
 
 [build]
   builder = 'paketobuildpacks/builder:base'
