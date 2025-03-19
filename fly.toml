@@ -1,5 +1,7 @@
 # fly.toml app configuration file generated for hello-vue3 on 2025-03-19T19:26:11+08:00
-
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
 
 app = 'hello-vue3'
 primary_region = 'nrt'
